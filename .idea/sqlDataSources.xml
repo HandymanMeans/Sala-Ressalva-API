@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="d83c9c6b-9544-4e11-8f03-d7faf2ffd579" name="sala_ressalva@localhost Mapping">
+      <data-sources db="c7169e4c-d03a-497c-bbec-a5914d782b89" ddl="907ad02c-a656-477f-afed-d1bbcf3882fc" />
+      <scope>
+        <node negative="1">
+          <node kind="database" qname="@" />
+          <node kind="schema">
+            <name qname="mysql" />
+            <name qname="performance_schema" />
+            <name qname="sala_ressalva" />
+            <name qname="sys" />
+          </node>
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="907ad02c-a656-477f-afed-d1bbcf3882fc" />
+          <option name="name" value="sala_ressalva@localhost (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/data.sql" />
+              <option value="file://$PROJECT_DIR$/sala_ressalva_reserva.sql" />
+              <option value="file://$PROJECT_DIR$/sala_ressalva_sala.sql" />
+              <option value="file://$PROJECT_DIR$/sala_ressalva_Triggers.sql" />
+              <option value="file://$PROJECT_DIR$/sala_ressalva_usuario.sql" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
