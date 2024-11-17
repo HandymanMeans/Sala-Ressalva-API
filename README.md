@@ -50,7 +50,7 @@ mvn spring-boot:run
 Acesse a API em:
 
 Swagger: http://localhost:8080/swagger-ui/index.html.
-🧪 Testar a API
+ Testar a API
 Use o Postman ou outro cliente para enviar requisições HTTP.
 
 Exemplos fictícios:
@@ -73,7 +73,7 @@ Copiar código
   "departamento": "Negociações",
   "ativa": true
 }
-🚨 Como Reportar Problemas (Issues)
+ Como Reportar Problemas (Issues)
 Clique na aba Issues neste repositório.
 Descreva o problema com o máximo de detalhes:
 O que você tentou fazer.
