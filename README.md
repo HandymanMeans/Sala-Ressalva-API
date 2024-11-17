@@ -5,8 +5,11 @@ Esta é uma API RESTful desenvolvida com **Spring Boot**, **Java JDK 22** e **My
 
 ## Tecnologias Usadas
 
+
 -**Intellij IDEA 2024.2.4**:IDEA que foi usanda para fazer os codigos desse projeto.
+
 -**MySQL Workbench 8.0.38**:Foi usando para visualizar os dados do banco de dados.
+
 - **Java JDK 22**: Linguagem principal da aplicação.
 - **Spring Boot**: Framework para criar aplicações Java com rapidez.
 - **Spring Data JPA**: Para integração com o banco de dados.
